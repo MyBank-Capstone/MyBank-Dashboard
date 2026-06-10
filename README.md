@@ -147,7 +147,7 @@ Dashboard telah dideploy menggunakan Streamlit Community Cloud.
 Link dashboard:
 
 ```
-https://mybank-dashboard.streamlit.app/
+https://mybank-capstone-dashboard.streamlit.app/
 ```
 
 ## MyBank Capstone Project
