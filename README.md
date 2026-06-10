@@ -1,12 +1,12 @@
 # MyBank Analytics Dashboard
 
-MyBank Analytics Dashboard merupakan aplikasi visualisasi data berbasis Streamlit yang dikembangkan untuk mendukung proses analisis performa sistem rekomendasi pada aplikasi MyBank. Dashboard ini digunakan untuk memantau efektivitas rekomendasi berdasarkan interaksi pengguna melalui metrik seperti Click Through Rate (CTR), engagement rate, segmentasi pengguna, dan hasil simulasi A/B testing.
+**Sistem Personalisasi Mobile Banking Berbasis Analitik & AI**
 
-Dashboard menggunakan data dummy dalam format Excel sebagai sumber data utama. Data tersebut diproses secara langsung untuk menghasilkan insight mengenai perilaku pengguna tanpa membutuhkan koneksi database tambahan.
+Tim: Capstone MyBank Kelompok 1  
 
 ## Features
 
-Beberapa fitur utama yang tersedia pada dashboard:
+MyBank Analytics adalah dashboard untuk monitoring dan validasi sistem personalisasi mobile banking berbasis AI. Dashboard ini menampilkan:
 
 - Monitoring performa rekomendasi berdasarkan CTR
 - Perbandingan performa rekomendasi antara control group dan treatment group
@@ -149,18 +149,6 @@ Link dashboard:
 ```
 https://mybank-dashboard.streamlit.app/
 ```
-
-## Role
-
-Dashboard Engineer
-
-Kontribusi:
-
-* Mendesain kebutuhan analitik dashboard
-* Melakukan transformasi data dummy
-* Mengembangkan visualisasi metrik rekomendasi
-* Mengimplementasikan analisis CTR dan engagement
-* Melakukan deployment dashboard berbasis Streamlit Cloud
 
 ## MyBank Capstone Project
 
