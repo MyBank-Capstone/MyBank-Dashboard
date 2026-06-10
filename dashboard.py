@@ -11,7 +11,7 @@ import os
 # KONFIGURASI
 # ============================================================
 
-EXCEL_FILE_NAME = 'Mybank Data.xlsx' 
+EXCEL_FILE_NAME = 'MyBank Data.xlsx' 
 
 # ============================================================
 # SETUP PAGE
